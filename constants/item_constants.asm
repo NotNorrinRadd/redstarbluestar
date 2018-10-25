@@ -85,6 +85,13 @@ SAFARI_ROCK           EQU $16 ; overload
 	const MAX_ETHER     ; $51
 	const ELIXER        ; $52
 	const MAX_ELIXER    ; $53
+	const METAL_COAT
+	const KINGS_ROCK
+	const POISON_STONE
+	const UPGRADE
+	const DRAGON_SCALE
+	const SLOWPOKETAIL
+	const LINK_CABLE
 	const FLOOR_B2F     ; $54
 	const FLOOR_B1F     ; $55
 	const FLOOR_1F      ; $56

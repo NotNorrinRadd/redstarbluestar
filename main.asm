@@ -20,8 +20,6 @@ INCLUDE "data/facing.asm"
 
 INCLUDE "engine/black_out.asm"
 
-INCLUDE "data/baseStats/mew.asm"
-
 INCLUDE "engine/battle/safari_zone.asm"
 
 INCLUDE "engine/titlescreen.asm"
@@ -916,6 +914,48 @@ RedPicBack::           INCBIN "pic/other/redb.pic"
 OldManPic::            INCBIN "pic/other/oldman.pic"
 
 MissingNoPicFront::    INCBIN "pic/other/missingno.bin"
+
+
+SECTION "Pics 12", ROMX
+
+TangrowthPicFront::    INCBIN "pic/swmon/tangrowth.pic"
+TangrowthPicBack::     INCBIN "pic/swmonback/tangrowthb.pic"
+CrobatPicFront::       INCBIN "pic/swmon/crobat.pic"
+CrobatPicBack::        INCBIN "pic/swmonback/crobatb.pic"
+MadamePicFront::       INCBIN "pic/swmon/madame.pic"
+MadamePicBack::        INCBIN "pic/swmonback/madameb.pic"
+BlisseyPicFront::      INCBIN "pic/swmon/blissey.pic"
+BlisseyPicBack::       INCBIN "pic/swmonback/blisseyb.pic"
+ScizorPicFront::       INCBIN "pic/swmon/scizor.pic"
+ScizorPicBack::        INCBIN "pic/swmonback/scizorb.pic"
+PlucksPicFront::       INCBIN "pic/swmon/plucks.pic"
+PlucksPicBack::        INCBIN "pic/swmonback/plucksb.pic"
+LickilickyPicFront::   INCBIN "pic/swmon/lickilicky.pic"
+LickilickyPicBack::    INCBIN "pic/swmonback/lickilickyb.pic"
+SteelixPicFront::      INCBIN "pic/swmon/steelix.pic"
+SteelixPicBack::       INCBIN "pic/swmonback/steelixb.pic"
+AnimonPicFront::       INCBIN "pic/swmon/animon.pic"
+AnimonPicBack::        INCBIN "pic/swmonback/animonb.pic"
+PolitoedPicFront::     INCBIN "pic/swmon/politoed.pic"
+PolitoedPicBack::      INCBIN "pic/swmonback/politoedb.pic"
+SlowkingPicFront::     INCBIN "pic/swmon/slowking.pic"
+SlowkingPicBack::      INCBIN "pic/swmonback/slowkingb.pic"
+EspeonPicFront::       INCBIN "pic/swmon/espeon.pic"
+EspeonPicBack::        INCBIN "pic/swmonback/espeonb.pic"
+UmbreonPicFront::      INCBIN "pic/swmon/umbreon.pic"
+UmbreonPicBack::       INCBIN "pic/swmonback/umbreonb.pic"
+HitmontopPicFront::    INCBIN "pic/swmon/hitmontop.pic"
+HitmontopPicBack::     INCBIN "pic/swmonback/hitmontopb.pic"
+BellossomPicFront::    INCBIN "pic/swmon/bellossom.pic"
+BellossomPicBack::     INCBIN "pic/swmonback/bellossomb.pic"
+BelmittPicFront::      INCBIN "pic/swmon/belmitt.pic"
+BelmittPicBack::       INCBIN "pic/swmonback/belmittb.pic"
+Porygon2PicFront::     INCBIN "pic/swmon/porygon2.pic"
+Porygon2PicBack::      INCBIN "pic/swmonback/porygon2b.pic"
+KingdraPicFront::      INCBIN "pic/swmon/kingdra.pic"
+KingdraPicBack::       INCBIN "pic/swmonback/kingdrab.pic"
+LeafeonPicFront::      INCBIN "pic/swmon/leafeon.pic"
+LeafeonPicBack::       INCBIN "pic/swmonback/leafeonb.pic"
 
 
 SECTION "Trainer Pics 1", ROMX

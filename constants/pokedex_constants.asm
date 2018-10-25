@@ -151,5 +151,24 @@ const_value = 1
 	const DEX_DRAGONITE  ; 149
 	const DEX_MEWTWO     ; 150
 	const DEX_MEW        ; 151
-
-NUM_POKEMON    EQU 151
+    const DEX_TANGROWTH  ; 152
+	const DEX_CROBAT     ; 153
+	const DEX_MADAME     ; 154
+	const DEX_BLISSEY    ; 155
+	const DEX_SCIZOR     ; 156
+	const DEX_PLUCKS     ; 157
+	const DEX_LICKILICKY ; 158
+	const DEX_STEELIX    ; 159
+	const DEX_ANIMON     ; 160
+	const DEX_POLITOED   ; 161
+	const DEX_SLOWKING   ; 162
+	const DEX_ESPEON     ; 163
+	const DEX_UMBREON    ; 164
+	const DEX_HITMONTOP  ; 165
+	const DEX_BELLOSSOM  ; 166
+	const DEX_BELMITT    ; 167
+	const DEX_PORYGON2   ; 168
+	const DEX_KINGDRA    ; 169
+	const DEX_LEAFEON    ; 170
+	
+NUM_POKEMON    EQU 170

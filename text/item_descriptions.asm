@@ -34,6 +34,13 @@ _ThunderStoneDescription::
 _WaterStoneDescription::
 _LeafStoneDescription::
 _HeartStoneDescription::
+_MetalCoatDescription::
+_KingsRockDescription::
+_PoisonStoneDescription::
+_UpgradeDescription::
+_DragonScaleDescription::
+_SlowpoketailDescription::
+_LinkCableDescription::
 	text "Evolves certain"
 	next "kinds of #MON."
 	prompt

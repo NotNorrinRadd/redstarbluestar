@@ -297,6 +297,26 @@ _TangelaDexEntry::
 	next "weed. Its vines"
 	next "shake as it walks"
 	dex
+	
+_TangrowthDexEntry::
+	text "A mysterious"
+	next "POKEMON from"
+	next "a different"
+
+	page "time and a "
+	next "different"
+	next "place"
+	dex
+	
+_CrobatDexEntry::
+	text "A mysterious"
+	next "POKEMON from"
+	next "a different"
+
+	page "time and a "
+	next "different"
+	next "place"
+	dex
 
 _GrowlitheDexEntry::
 	text "Very protective"
@@ -468,6 +488,16 @@ _GolemDexEntry::
 	next "without damage"
 	dex
 
+_MadameDexEntry::
+	text "A mysterious"
+	next "POKEMON from"
+	next "a different"
+
+	page "time and a "
+	next "different"
+	next "place"
+	dex	
+	
 _MagmarDexEntry::
 	text "Its body always"
 	next "burns with an"
@@ -476,6 +506,16 @@ _MagmarDexEntry::
 	page "enables it to"
 	next "hide perfectly"
 	next "among flames"
+	dex
+	
+_BlisseyDexEntry::
+	text "A mysterious"
+	next "POKEMON from"
+	next "a different"
+
+	page "time and a "
+	next "different"
+	next "place"
 	dex
 
 _ElectabuzzDexEntry::
@@ -506,6 +546,16 @@ _KoffingDexEntry::
 	page "its body, it is"
 	next "prone to exploding"
 	next "without warning"
+	dex
+	
+_ScizorDexEntry::
+	text "A mysterious"
+	next "POKEMON from"
+	next "a different"
+
+	page "time and a "
+	next "different"
+	next "place"
 	dex
 
 _MankeyDexEntry::
@@ -547,6 +597,36 @@ _TaurosDexEntry::
 	next "body with its"
 	next "long tails"
 	dex
+	
+_PlucksDexEntry::
+	text "A mysterious"
+	next "POKEMON from"
+	next "a different"
+
+	page "time and a "
+	next "different"
+	next "place"
+	dex
+	
+_LickilickyDexEntry::
+	text "A mysterious"
+	next "POKEMON from"
+	next "a different"
+
+	page "time and a "
+	next "different"
+	next "place"
+	dex
+	
+_SteelixDexEntry::
+	text "A mysterious"
+	next "POKEMON from"
+	next "a different"
+
+	page "time and a "
+	next "different"
+	next "place"
+	dex
 
 _FarfetchdDexEntry::
 	text "The sprig of"
@@ -577,7 +657,37 @@ _DragoniteDexEntry::
 	next "is said to match"
 	next "that of humans"
 	dex
+	
+_AnimonDexEntry::
+	text "A mysterious"
+	next "POKEMON from"
+	next "a different"
 
+	page "time and a "
+	next "different"
+	next "place"
+	dex
+	
+_PolitoedDexEntry::
+	text "A mysterious"
+	next "POKEMON from"
+	next "a different"
+
+	page "time and a "
+	next "different"
+	next "place"
+	dex
+
+_SlowkingDexEntry::
+	text "A mysterious"
+	next "POKEMON from"
+	next "a different"
+
+	page "time and a "
+	next "different"
+	next "place"
+	dex	
+	
 _DoduoDexEntry::
 	text "A bird that makes"
 	next "up for its poor"
@@ -667,6 +777,36 @@ _KrabbyDexEntry::
 	next "when walking"
 	next "sideways"
 	dex
+	
+_EspeonDexEntry::
+	text "A mysterious"
+	next "POKEMON from"
+	next "a different"
+
+	page "time and a "
+	next "different"
+	next "place"
+	dex
+	
+_UmbreonDexEntry::
+	text "A mysterious"
+	next "POKEMON from"
+	next "a different"
+
+	page "time and a "
+	next "different"
+	next "place"
+	dex
+	
+_HitmontopDexEntry::
+	text "A mysterious"
+	next "POKEMON from"
+	next "a different"
+
+	page "time and a "
+	next "different"
+	next "place"
+	dex
 
 _VulpixDexEntry::
 	text "At the time of"
@@ -708,6 +848,26 @@ _RaichuDexEntry::
 	next "power"
 	dex
 
+_BellossomDexEntry::
+	text "A mysterious"
+	next "POKEMON from"
+	next "a different"
+
+	page "time and a "
+	next "different"
+	next "place"
+	dex
+
+_BelmittDexEntry::
+	text "A mysterious"
+	next "POKEMON from"
+	next "a different"
+
+	page "time and a "
+	next "different"
+	next "place"
+	dex	
+	
 _DratiniDexEntry::
 	text "Long considered a"
 	next "mythical #MON"
@@ -767,7 +927,27 @@ _SeadraDexEntry::
 	next "pectoral fins and"
 	next "stout tail"
 	dex
+	
+_Porygon2DexEntry::
+	text "A mysterious"
+	next "POKEMON from"
+	next "a different"
 
+	page "time and a "
+	next "different"
+	next "place"
+	dex
+
+_KingdraDexEntry::
+	text "A mysterious"
+	next "POKEMON from"
+	next "a different"
+
+	page "time and a "
+	next "different"
+	next "place"
+	dex	
+	
 _SandshrewDexEntry::
 	text "Burrows deep"
 	next "underground in"
@@ -956,6 +1136,16 @@ _BeedrillDexEntry::
 	page "venomous stingers"
 	next "on its forelegs"
 	next "and tail"
+	dex
+
+_LeafeonDexEntry::	
+	text "A mysterious"
+	next "POKEMON from"
+	next "a different"
+
+	page "time and a "
+	next "different"
+	next "place"
 	dex
 
 _DodrioDexEntry::

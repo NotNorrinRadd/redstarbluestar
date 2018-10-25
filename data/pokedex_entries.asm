@@ -29,8 +29,8 @@ PokedexEntryPointers:
 	dw BlastoiseDexEntry
 	dw PinsirDexEntry
 	dw TangelaDexEntry
-	dw MissingNoDexEntry
-	dw MissingNoDexEntry
+	dw TangrowthDexEntry
+	dw CrobatDexEntry
 	dw GrowlitheDexEntry
 	dw OnixDexEntry
 	dw FearowDexEntry
@@ -48,26 +48,26 @@ PokedexEntryPointers:
 	dw PsyduckDexEntry
 	dw DrowzeeDexEntry
 	dw GolemDexEntry
-	dw MissingNoDexEntry
+	dw MadameDexEntry
 	dw MagmarDexEntry
-	dw MissingNoDexEntry
+	dw BlisseyDexEntry
 	dw ElectabuzzDexEntry
 	dw MagnetonDexEntry
 	dw KoffingDexEntry
-	dw MissingNoDexEntry
+	dw ScizorDexEntry
 	dw MankeyDexEntry
 	dw SeelDexEntry
 	dw DiglettDexEntry
 	dw TaurosDexEntry
-	dw MissingNoDexEntry
-	dw MissingNoDexEntry
-	dw MissingNoDexEntry
+	dw PlucksDexEntry
+	dw LickilickyDexEntry
+	dw SteelixDexEntry
 	dw FarfetchdDexEntry
 	dw VenonatDexEntry
 	dw DragoniteDexEntry
-	dw MissingNoDexEntry
-	dw MissingNoDexEntry
-	dw MissingNoDexEntry
+	dw AnimonDexEntry
+	dw PolitoedDexEntry
+	dw SlowkingDexEntry
 	dw DoduoDexEntry
 	dw PoliwagDexEntry
 	dw JynxDexEntry
@@ -77,23 +77,23 @@ PokedexEntryPointers:
 	dw DittoDexEntry
 	dw MeowthDexEntry
 	dw KrabbyDexEntry
-	dw MissingNoDexEntry
-	dw MissingNoDexEntry
-	dw MissingNoDexEntry
+	dw EspeonDexEntry
+	dw UmbreonDexEntry
+	dw HitmontopDexEntry
 	dw VulpixDexEntry
 	dw NinetalesDexEntry
 	dw PikachuDexEntry
 	dw RaichuDexEntry
-	dw MissingNoDexEntry
-	dw MissingNoDexEntry
+	dw BellossomDexEntry
+	dw BelmittDexEntry
 	dw DratiniDexEntry
 	dw DragonairDexEntry
 	dw KabutoDexEntry
 	dw KabutopsDexEntry
 	dw HorseaDexEntry
 	dw SeadraDexEntry
-	dw MissingNoDexEntry
-	dw MissingNoDexEntry
+	dw Porygon2DexEntry
+	dw KingdraDexEntry
 	dw SandshrewDexEntry
 	dw SandslashDexEntry
 	dw OmanyteDexEntry
@@ -113,7 +113,7 @@ PokedexEntryPointers:
 	dw WeedleDexEntry
 	dw KakunaDexEntry
 	dw BeedrillDexEntry
-	dw MissingNoDexEntry
+	dw LeafeonDexEntry
 	dw DodrioDexEntry
 	dw PrimeapeDexEntry
 	dw DugtrioDexEntry
@@ -404,6 +404,20 @@ TangelaDexEntry:
 	dw 770
 	TX_FAR _TangelaDexEntry
 	db "@"
+	
+TangrowthDexEntry:
+	db "BETA"
+	db 6,7
+	dw 2835
+	TX_FAR _TangrowthDexEntry
+	db "@"
+	
+CrobatDexEntry:
+	db "BETA@"
+	db 5,11
+	dw 1653
+	TX_FAR _CrobatDexEntry
+	db "@"
 
 GrowlitheDexEntry:
 	db "PUPPY@"
@@ -523,12 +537,26 @@ GolemDexEntry:
 	dw 6620
 	TX_FAR _GolemDexEntry
 	db "@"
+	
+MadameDexEntry:
+	db "BETA@"
+	db 5,3
+	dw 1412
+	TX_FAR _MadameDexEntry
+	db "@"
 
 MagmarDexEntry:
 	db "SPITFIRE@"
 	db 4,3
 	dw 980
 	TX_FAR _MagmarDexEntry
+	db "@"
+	
+BlisseyDexEntry:
+	db "BETA@"
+	db 4,11
+	dw 1032
+	TX_FAR _BlisseyDexEntry
 	db "@"
 
 ElectabuzzDexEntry:
@@ -550,6 +578,13 @@ KoffingDexEntry:
 	db 2,0
 	dw 20
 	TX_FAR _KoffingDexEntry
+	db "@"
+	
+ScizorDexEntry:
+	db "BETA@"
+	db 5,11
+	dw 2601
+	TX_FAR _ScizorDexEntry
 	db "@"
 
 MankeyDexEntry:
@@ -580,6 +615,27 @@ TaurosDexEntry:
 	TX_FAR _TaurosDexEntry
 	db "@"
 
+PlucksDexEntry:
+	db "BETA@"
+	db 5,11
+	dw 2404
+	TX_FAR _PlucksDexEntry
+	db "@"	
+	
+LickilickyDexEntry:
+	db "BETA@"
+	db 5,07
+	dw 3086
+	TX_FAR _LickilickyDexEntry
+	db "@"
+	
+SteelixDexEntry:
+	db "BETA@"
+	db 30,02
+	dw 8818
+	TX_FAR _SteelixDexEntry
+	db "@"
+	
 FarfetchdDexEntry:
 	db "WILD DUCK@"
 	db 2,7
@@ -599,6 +655,27 @@ DragoniteDexEntry:
 	db 7,3
 	dw 4630
 	TX_FAR _DragoniteDexEntry
+	db "@"
+	
+AnimonDexEntry:
+    db "BETA@"
+	db 2,1
+    dw 4201
+	TX_FAR _AnimonDexEntry
+	db "@"
+	
+PolitoedDexEntry:
+	db "BETA"
+	db 3,7
+	dw 747
+	TX_FAR _PolitoedDexEntry
+	db "@"
+	
+SlowkingDexEntry:
+	db "BETA"
+	db 6,7
+	dw 1753
+	TX_FAR _SlowkingDexEntry
 	db "@"
 
 DoduoDexEntry:
@@ -663,6 +740,27 @@ KrabbyDexEntry:
 	dw 140
 	TX_FAR _KrabbyDexEntry
 	db "@"
+	
+EspeonDexEntry:
+	db "BETA"
+	db 2,11
+	dw 584
+	TX_FAR _EspeonDexEntry
+	db "@"
+	
+UmbreonDexEntry:
+	db "BETA"
+	db 3,03
+	dw 595
+	TX_FAR _UmbreonDexEntry
+	db "@"
+	
+HitmontopDexEntry:
+	db "BETA"
+	db 4,7
+	dw 1058
+	TX_FAR _HitmontopDexEntry
+	db "@"
 
 VulpixDexEntry:
 	db "FOX@"
@@ -690,6 +788,20 @@ RaichuDexEntry:
 	db 2,7
 	dw 660
 	TX_FAR _RaichuDexEntry
+	db "@"
+	
+BellossomDexEntry:
+	db "BETA"
+	db 1,4
+	dw 128
+	TX_FAR _BellossomDexEntry
+	db "@"
+	
+BelmittDexEntry:
+	db "BETA"
+	db 4,11
+	dw 891
+	TX_FAR _BelmittDexEntry
 	db "@"
 
 DratiniDexEntry:
@@ -732,6 +844,20 @@ SeadraDexEntry:
 	db 3,11
 	dw 550
 	TX_FAR _SeadraDexEntry
+	db "@"
+	
+Porygon2DexEntry:
+	db "BETA"
+	db 2,0
+	dw 716
+	TX_FAR _Porygon2DexEntry
+	db "@"
+	
+KingdraDexEntry:
+	db "BETA"
+	db 5,11
+	dw 3351
+	TX_FAR _KingdraDexEntry
 	db "@"
 
 SandshrewDexEntry:
@@ -867,6 +993,13 @@ BeedrillDexEntry:
 	TX_FAR _BeedrillDexEntry
 	db "@"
 
+LeafeonDexEntry:
+	db "BETA"
+	db 3,3
+	dw 562
+	TX_FAR _LeafeonDexEntry
+	db "@"	
+	
 DodrioDexEntry:
 	db "TRIPLEBIRD@"
 	db 5,11

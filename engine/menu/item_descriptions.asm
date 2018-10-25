@@ -177,6 +177,20 @@ ItemDescriptionPointers:
 	db "@"
 	TX_FAR _MaxElixerDescription
 	db "@"
+	TX_FAR _MetalCoatDescription
+	db "@"
+	TX_FAR _KingsRockDescription
+	db "@"
+	TX_FAR _PoisonStoneDescription
+	db "@"
+	TX_FAR _UpgradeDescription
+	db "@"
+	TX_FAR _DragonScaleDescription
+	db "@"
+	TX_FAR _SlowpoketailDescription
+	db "@"
+	TX_FAR _LinkCableDescription
+	db "@"
 	TX_FAR _HM01Description
 	db "@"
 	TX_FAR _HM02Description

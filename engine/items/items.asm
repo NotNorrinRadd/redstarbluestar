@@ -99,6 +99,13 @@ ItemUsePtrTable:
 	dw ItemUsePPRestore  ; MAX_ETHER
 	dw ItemUsePPRestore  ; ELIXER
 	dw ItemUsePPRestore  ; MAX_ELIXER
+	dw ItemUseEvoStone   ; METAL_COAT
+	dw ItemUseEvoStone   ; KINGS_ROCK
+	dw ItemUseEvoStone   ; POISON_STONE
+	dw ItemUseEvoStone   ; UPGRADE
+	dw ItemUseEvoStone   ; DRAGON_SCALE
+	dw ItemUseEvoStone   ; SLOWPOKETAIL
+	dw ItemUseEvoStone   ; LINK_CABLE
 
 ItemUseBall:
 

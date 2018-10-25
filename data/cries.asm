@@ -30,8 +30,8 @@ CryData:
 	db $13, $00, $80; Blastoise
 	db $14, $00, $80; Pinsir
 	db $12, $00, $80; Tangela
-	db $00, $00, $00; MissingNo.
-	db $00, $00, $00; MissingNo.
+	db $12, $00, $80; Tangrowth
+	db $1D, $FA, $80; Crobat
 	db $1F, $20, $40; Growlithe
 	db $17, $FF, $C0; Onix
 	db $18, $40, $A0; Fearow
@@ -49,26 +49,26 @@ CryData:
 	db $21, $20, $60; Psyduck
 	db $0D, $88, $20; Drowzee
 	db $12, $E0, $40; Golem
-	db $00, $00, $00; MissingNo.
+	db $10, $DD, $01; Madame
 	db $04, $FF, $30; Magmar
-	db $00, $00, $00; MissingNo.
+	db $14, $0A, $C0; Blissey
 	db $06, $8F, $FF; Electabuzz
 	db $1C, $20, $C0; Magneton
 	db $12, $E6, $DD; Koffing
-	db $00, $00, $00; MissingNo.
+	db $16, $00, $80; Scizor
 	db $0A, $DD, $60; Mankey
 	db $0C, $88, $C0; Seel
 	db $0B, $AA, $01; Diglett
 	db $1D, $11, $40; Tauros
-	db $00, $00, $00; MissingNo.
-	db $00, $00, $00; MissingNo.
-	db $00, $00, $00; MissingNo.
+	db $14, $00, $80; Plucks
+	db $0C, $00, $80; Lickilicky
+	db $17, $FF, $C0; Steelix
 	db $10, $DD, $01; Farfetch'd
 	db $1A, $44, $40; Venonat
 	db $0F, $3C, $C0; Dragonite
-	db $00, $80, $10; MissingNo.
-	db $00, $00, $00; MissingNo.
-	db $1D, $E0, $80; MissingNo.
+	db $0E, $FF, $FF; Animon
+	db $00, $00, $00; Politoed
+	db $1D, $E0, $80; Slowking
 	db $0B, $BB, $01; Doduo
 	db $0E, $FF, $FF; Poliwag
 	db $0D, $FF, $FF; Jynx
@@ -78,23 +78,23 @@ CryData:
 	db $0E, $FF, $FF; Ditto
 	db $19, $77, $10; Meowth
 	db $20, $20, $E0; Krabby
-	db $22, $FF, $40; MissingNo.
-	db $00, $00, $00; MissingNo.
-	db $0E, $E0, $60; MissingNo.
+	db $22, $FF, $40; Espeon
+	db $00, $00, $00; Umbreon
+	db $0E, $E0, $60; Hitmontop
 	db $24, $4F, $10; Vulpix
 	db $24, $88, $60; Ninetales
 	db $0F, $EE, $01; Pikachu
 	db $09, $EE, $08; Raichu
-	db $00, $00, $00; MissingNo.
-	db $00, $00, $00; MissingNo.
+	db $00, $00, $00; Bellossom
+	db $00, $00, $00; Belmitt
 	db $0F, $60, $40; Dratini
 	db $0F, $40, $80; Dragonair
 	db $16, $BB, $40; Kabuto
 	db $18, $EE, $01; Kabutops
 	db $19, $99, $10; Horsea
 	db $19, $3C, $01; Seadra
-	db $0F, $40, $C0; MissingNo.
-	db $0F, $20, $C0; MissingNo.
+	db $0F, $40, $C0; Porygon2
+	db $0F, $20, $C0; Kingdra
 	db $00, $20, $40; Sandshrew
 	db $00, $FF, $FF; Sandslash
 	db $1F, $F0, $01; Omanyte
@@ -114,7 +114,7 @@ CryData:
 	db $15, $EE, $01; Weedle
 	db $13, $FF, $01; Kakuna
 	db $13, $60, $80; Beedrill
-	db $00, $00, $00; MissingNo.
+	db $00, $00, $00; Leafeon
 	db $0B, $99, $20; Dodrio
 	db $0A, $AF, $40; Primeape
 	db $0B, $2A, $10; Dugtrio

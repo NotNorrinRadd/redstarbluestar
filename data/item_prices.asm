@@ -82,6 +82,13 @@ ItemPrices:
 	money 0     ; MAX_ETHER
 	money 0     ; ELIXER
 	money 0     ; MAX_ELIXER
+	money 2100  ; METAL_COAT
+	money 2100  ; KINGS_ROCK
+	money 2100  ; POISON_STONE
+	money 2100  ; UPGRADE
+	money 2100  ; DRAGON_SCALE
+	money 2100  ; SLOWPOKETAIL
+	money 2100  ; LINK_CABLE
 	money 0     ; FLOOR_B2F
 	money 0     ; FLOOR_B1F
 	money 0     ; FLOOR_1F

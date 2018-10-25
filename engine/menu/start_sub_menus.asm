@@ -490,6 +490,13 @@ UsableItems_PartyMenu:
 	db MAX_ETHER
 	db ELIXER
 	db MAX_ELIXER
+	db METAL_COAT
+	db KINGS_ROCK
+	db POISON_STONE
+	db UPGRADE
+	db DRAGON_SCALE
+	db SLOWPOKETAIL
+	db LINK_CABLE
 	db $ff
 
 ; items which close the item menu when used
