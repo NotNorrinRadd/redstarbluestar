@@ -299,23 +299,23 @@ _TangelaDexEntry::
 	dex
 	
 _TangrowthDexEntry::
-	text "A mysterious"
-	next "POKEMON from"
-	next "a different"
+	text "It traps its prey"
+	next "using its long"
+	next "arms, which are"
 
-	page "time and a "
-	next "different"
-	next "place"
+	page "made of vines"
+	next "if one is cut off"
+	next "it will grow back"
 	dex
 	
 _CrobatDexEntry::
-	text "A mysterious"
-	next "POKEMON from"
-	next "a different"
+	text "It flies silently"
+	next "through the dark"
+	next "on its four wings"
 
-	page "time and a "
-	next "different"
-	next "place"
+	page "so it may not be"
+	next "noticed even when"
+	next "is is nearby"
 	dex
 
 _GrowlitheDexEntry::
@@ -509,13 +509,13 @@ _MagmarDexEntry::
 	dex
 	
 _BlisseyDexEntry::
-	text "A mysterious"
-	next "POKEMON from"
-	next "a different"
+	text "It has a very com-"
+	next "passionate nature."
+	next "If it sees a sick"
 
-	page "time and a "
-	next "different"
-	next "place"
+	page "POKEMON, it will"
+	next "nurse the sufferer"
+	next "back to health"
 	dex
 
 _ElectabuzzDexEntry::
@@ -549,13 +549,13 @@ _KoffingDexEntry::
 	dex
 	
 _ScizorDexEntry::
-	text "A mysterious"
-	next "POKEMON from"
-	next "a different"
+	text "This POKEMON's"
+	next "pincers, which"
+	next "contain steel, can"
 
-	page "time and a "
-	next "different"
-	next "place"
+	page "crush any hard"
+	next "object it gets a"
+	next "hold of into bits"
 	dex
 
 _MankeyDexEntry::
@@ -609,23 +609,23 @@ _PlucksDexEntry::
 	dex
 	
 _LickilickyDexEntry::
-	text "A mysterious"
-	next "POKEMON from"
-	next "a different"
+	text "It wraps things up"
+	next "in its long tongue"
+	next "when they come"
 
-	page "time and a "
-	next "different"
-	next "place"
+	page "close. Its saliva"
+	next "is able to"
+	next "dissolve anything"
 	dex
 	
 _SteelixDexEntry::
-	text "A mysterious"
-	next "POKEMON from"
-	next "a different"
+	text "It is said that if"
+	next "an Onix lives for"
+	next "over 100 years"
 
-	page "time and a "
-	next "different"
-	next "place"
+	page "its composition"
+	next "changes to become"
+	next "diamond-like"
 	dex
 
 _FarfetchdDexEntry::
@@ -669,23 +669,22 @@ _AnimonDexEntry::
 	dex
 	
 _PolitoedDexEntry::
-	text "A mysterious"
-	next "POKEMON from"
-	next "a different"
+	text "If POLIWAG and"
+	next "POLIWHIRL hear its"
+	next "echoing cry, they"
 
-	page "time and a "
-	next "different"
-	next "place"
+	page "gather from far"
+	next "and wide"
 	dex
 
 _SlowkingDexEntry::
-	text "A mysterious"
-	next "POKEMON from"
-	next "a different"
+	text "The SHELLDER on"
+	next "its head injects a"
+	next "poison that makes"
 
-	page "time and a "
-	next "different"
-	next "place"
+	page "it much smarter"
+	next "than it would"
+	next "otherwise be"
 	dex	
 	
 _DoduoDexEntry::
@@ -779,33 +778,33 @@ _KrabbyDexEntry::
 	dex
 	
 _EspeonDexEntry::
-	text "A mysterious"
-	next "POKEMON from"
-	next "a different"
+	text "By reading air"
+	next "currents, it can"
+	next "predict things"
 
-	page "time and a "
-	next "different"
-	next "place"
+	page "such as its foe's"
+	next "next move, or the"
+	next "weather"
 	dex
 	
 _UmbreonDexEntry::
-	text "A mysterious"
-	next "POKEMON from"
-	next "a different"
+	text "When darkness"
+	next "falls, the rings"
+	next "on its body begin"
 
-	page "time and a "
-	next "different"
-	next "place"
+	page "to glow, striking"
+	next "fear in the hearts"
+	next "of those nearby"
 	dex
 	
 _HitmontopDexEntry::
-	text "A mysterious"
-	next "POKEMON from"
-	next "a different"
+	text "It launches kicks"
+	next "while spinning. If"
+	next "it spins at high"
 
-	page "time and a "
-	next "different"
-	next "place"
+	page "speed, it may bore"
+	next "its way into the"
+	next "ground"
 	dex
 
 _VulpixDexEntry::
@@ -849,13 +848,13 @@ _RaichuDexEntry::
 	dex
 
 _BellossomDexEntry::
-	text "A mysterious"
-	next "POKEMON from"
-	next "a different"
+	text "Plentiful in the"
+	next "tropics. When it"
+	next "dances, its petals"
 
-	page "time and a "
-	next "different"
-	next "place"
+	page "rub together and"
+	next "make a pleasent"
+	next "ringing sound"
 	dex
 
 _BelmittDexEntry::
@@ -929,23 +928,23 @@ _SeadraDexEntry::
 	dex
 	
 _Porygon2DexEntry::
-	text "A mysterious"
-	next "POKEMON from"
-	next "a different"
+	text "A manmade POKEMON"
+	next "that evolved from"
+	next "new technology."
 
-	page "time and a "
-	next "different"
-	next "place"
+	page "It may have some"
+	next "unprogrammed"
+	next "reactions"
 	dex
 
 _KingdraDexEntry::
-	text "A mysterious"
-	next "POKEMON from"
-	next "a different"
+	text "It is said that it"
+	next "usually hides in"
+	next "underwater caves."
 
-	page "time and a "
-	next "different"
-	next "place"
+	page "It can create"
+	next "Whirlpools by"
+	next "yawning"
 	dex	
 	
 _SandshrewDexEntry::
@@ -1139,13 +1138,13 @@ _BeedrillDexEntry::
 	dex
 
 _LeafeonDexEntry::	
-	text "A mysterious"
-	next "POKEMON from"
-	next "a different"
+	text "Just like a plant"
+	next "it uses photo-"
+	next "synthesis. As a"
 
-	page "time and a "
-	next "different"
-	next "place"
+	page "result, it is"
+	next "always enveloped"
+	next "in clean air"
 	dex
 
 _DodrioDexEntry::
@@ -1197,6 +1196,16 @@ _DewgongDexEntry::
 	next "even in intensely"
 	next "cold waters"
 	dex
+	
+_TurbannDexEntry::
+	text "A mysterious"
+	next "POKEMON from"
+	next "a different"
+
+	page "time and a "
+	next "different"
+	next "place"
+	dex	
 
 _CaterpieDexEntry::
 	text "Its short feet"

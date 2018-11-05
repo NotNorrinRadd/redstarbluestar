@@ -122,7 +122,7 @@ EvosMovesPointerTable:
 	dw DugtrioEvosMoves
 	dw VenomothEvosMoves
 	dw DewgongEvosMoves
-	dw MissingNo79EvosMoves
+	dw TurbannEvosMoves
 	dw MissingNo7AEvosMoves
 	dw CaterpieEvosMoves
 	dw MetapodEvosMoves
@@ -446,6 +446,7 @@ GyaradosEvosMoves:
 
 ShellderEvosMoves:
 ; Evolutions
+    db EV_ITEM, SLOWPOKETAIL, 1, TURBANN
 	db EV_ITEM, WATER_STONE, 1, CLOYSTER
 	db 0
 ; Learnset
@@ -1622,7 +1623,7 @@ DewgongEvosMoves:
 	db 56, ICE_BEAM
 	db 0
 
-MissingNo79EvosMoves:
+TurbannEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset

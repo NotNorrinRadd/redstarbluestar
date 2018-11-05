@@ -120,7 +120,7 @@ CryData:
 	db $0B, $2A, $10; Dugtrio
 	db $1A, $29, $80; Venomoth
 	db $0C, $23, $FF; Dewgong
-	db $00, $00, $00; MissingNo.
+	db $18, $6F, $E0; Turbann
 	db $00, $00, $00; MissingNo.
 	db $16, $80, $20; Caterpie
 	db $1C, $CC, $01; Metapod

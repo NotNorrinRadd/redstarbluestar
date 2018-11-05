@@ -84,4 +84,5 @@ MonPartyData:
 	dn SPRITE_MON, SPRITE_GRASS             ;Hitmontop/Bellossom
     dn SPRITE_GRASS, SPRITE_MON             ;Belmitt/Porygon2
     dn SPRITE_WATER, SPRITE_QUADRUPED       ;Kingdra/Leafeon	
+	dn SPRITE_HELIX, 0                      ;Turbann/padding
 	

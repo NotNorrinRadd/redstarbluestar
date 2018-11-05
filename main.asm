@@ -956,6 +956,8 @@ KingdraPicFront::      INCBIN "pic/swmon/kingdra.pic"
 KingdraPicBack::       INCBIN "pic/swmonback/kingdrab.pic"
 LeafeonPicFront::      INCBIN "pic/swmon/leafeon.pic"
 LeafeonPicBack::       INCBIN "pic/swmonback/leafeonb.pic"
+TurbannPicFront::      INCBIN "pic/swmon/turbann.pic"
+TurbannPicBack::       INCBIN "pic/swmonback/turbannb.pic"
 
 
 SECTION "Trainer Pics 1", ROMX

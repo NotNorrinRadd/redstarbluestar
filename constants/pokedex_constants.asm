@@ -170,5 +170,6 @@ const_value = 1
 	const DEX_PORYGON2   ; 168
 	const DEX_KINGDRA    ; 169
 	const DEX_LEAFEON    ; 170
+	const DEX_TURBANN    ; 171
 	
-NUM_POKEMON    EQU 170
+NUM_POKEMON    EQU 171

@@ -119,7 +119,7 @@ PokedexEntryPointers:
 	dw DugtrioDexEntry
 	dw VenomothDexEntry
 	dw DewgongDexEntry
-	dw MissingNoDexEntry
+	dw TurbannDexEntry
 	dw MissingNoDexEntry
 	dw CaterpieDexEntry
 	dw MetapodDexEntry
@@ -1033,6 +1033,13 @@ DewgongDexEntry:
 	db 5,7
 	dw 2650
 	TX_FAR _DewgongDexEntry
+	db "@"
+	
+TurbannDexEntry:
+	db "BETA@"
+	db 4,11
+	dw 2920
+	TX_FAR _TurbannDexEntry
 	db "@"
 
 CaterpieDexEntry:

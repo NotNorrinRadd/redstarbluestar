@@ -120,7 +120,7 @@ const_value = 1
 	const DUGTRIO      ; $76
 	const VENOMOTH     ; $77
 	const DEWGONG      ; $78
-	const MISSINGNO_79 ; $79
+	const TURBANN      ; $79
 	const MISSINGNO_7A ; $7A
 	const CATERPIE     ; $7B
 	const METAPOD      ; $7C
